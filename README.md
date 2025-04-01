@@ -6,7 +6,7 @@
 
 
 ### **Access the Deployed App**
-Click [here](https://umarskh.github.io/TinDog/) to access the live application.
+Click [here](https://tin-dog-beta.vercel.app/) to access the live application.
 
 ---
 
@@ -14,7 +14,7 @@ Click [here](https://umarskh.github.io/TinDog/) to access the live application.
 
 - **Easy to Use:** Intuitive design allows anyone (even your dog!) to use it.
 - **Elite Clientele:** Tailored for all breeds and personalities.
-- **Guaranteed Results:** Matches guaranteed, or your money back.
+- **Guaranteed Results:** Matches are guaranteed, or your money is returned.
 
 ---
 
@@ -30,7 +30,7 @@ The app is built using the following technologies:
 ## **4. How to Use**
 
 ### **I. Access the App**
-- For production: Use the deployed URL [here](https://umarskh.github.io/TinDog/).
+- For production: Use the deployed URL [here](https://tin-dog-beta.vercel.app/).
 - For development: Open `http://localhost:3000` in your browser.
 
 ### **II. Explore Each Section**
